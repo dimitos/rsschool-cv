@@ -1,5 +1,17 @@
 # Basalyuk Dmitriy
 
+## About me:
+
+- Hi! I have a great desire to move towards fullstack JavaScript development.
+- My priorities are learning: JavaScript, Node.js, React.js, Vue.js, Typescript.
+- I want to participate in team development using Git, learn the component approach to development.
+- I have passed the initial level of web development, I have a little experience of commercial work on freelance.
+
+## Skills:
+
+- HTML, CSS, JavaScript, JQuery, PHP, MySql.
+
+
 
 ## Skills:
 
