@@ -1,5 +1,11 @@
 # Basalyuk Dmitriy
 
+
+## Skills:
+
+- HTML, CSS, JavaScript, JQuery, PHP, MySql.
+
+
 ## Code example:
 
 ```
