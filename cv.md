@@ -21,7 +21,7 @@
 
 ```
     const hello = name => `Hello, ${name}!`;
-    alert(hello('RS School'));
+    alert(hello`RS School`);
 ```
 
 ## Portfolio:
