@@ -1,5 +1,11 @@
 # Basalyuk Dmitriy
 
+## Contacts:
+- location: &nbsp;&nbsp;[Krasnodar, Russia](https://goo.gl/maps/LmrT5SDqd79UHidG6 'Krasnodar, Russia')
+- email: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:blackrook115@gmail.com" title="mail">blackrook115@gmail.com</a>
+- phone: &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+79189755106" title="phone">+7 918 975 51 06</a>
+- telegram: [@Dimitos](https://t.me/Dimitos 'Telegram/@Dimitos')
+
 ## About me:
 
 - Hi! I have a great desire to move towards fullstack JavaScript development.
@@ -10,13 +16,6 @@
 ## Skills:
 
 - HTML, CSS, JavaScript, JQuery, PHP, MySql.
-
-
-
-## Skills:
-
-- HTML, CSS, JavaScript, JQuery, PHP, MySql.
-
 
 ## Code example:
 
