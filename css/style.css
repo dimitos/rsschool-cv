@@ -67,9 +67,10 @@ img {
 html {
   font-family: 'Lato', sans-serif;
   font-size: 10px;
+  scroll-behavior: smooth;
 }
 
-body {
+.body {
   background: #64a4b1;
 }
 
@@ -110,7 +111,7 @@ p {
 }
 
 .top {
-  margin-top: 3rem;
+  padding-top: 3rem;
 }
 
 .content {
@@ -231,13 +232,13 @@ p {
 }
 
 .section-left {
-  width: 40%;
+  width: 36%;
   padding-left: 3rem;
   padding-right: 3rem;
 }
 
 .section-right {
-  width: 60%;
+  width: 64%;
 }
 
 .title {
@@ -398,6 +399,71 @@ ul.ul-skills li {
 .link__size {
   font-size: 1.3rem;
   font-weight: 400;
+}
+
+.pane {
+  margin-top: 4rem;
+}
+
+.pane__wr {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0 -0.2rem;
+}
+
+.pane__item {
+  width: 50%;
+  padding: 0 0.2rem 1rem;
+}
+
+.pane__item-wr {
+  border-radius: 0.3rem;
+}
+
+.pane__item-img {
+  position: relative;
+  width: 100%;
+  height: 21rem;
+  overflow: hidden;
+}
+
+.pane__item-img img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transition: 0.3s ease-in-out;
+}
+
+.pane__item a {
+  display: block;
+}
+
+.pane__item-inner {
+  padding: 1rem;
+}
+
+h5.pane__item-title {
+  margin: 0;
+}
+
+.pane__item-txt {
+  font-size: 1.2rem;
+  line-height: 130%;
+}
+
+ul.pane__item-list {
+  padding-left: 1rem;
+  padding-top: 1rem;
+  font-size: 1.2rem;
+  line-height: 100%;
+}
+
+ul.pane__item-list li {
+  margin-bottom: 0.3rem;
 }
 
 /*
