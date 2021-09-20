@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>CV Basalyuk Dmitriy</title>
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.9/styles/default.min.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.9/highlight.min.js"></script>
     <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
@@ -13,7 +15,7 @@
       <div class="container">
         <section class="top">
           <div class="content">
-            <header class="header">
+            <!-- <header class="header">
               <div class="header__wr">
                 <nav class="menu">
                   <ul class="menu__list">
@@ -38,10 +40,13 @@
                     <il class="menu__item">
                       <a href="#english" class="menu__link">English</a>
                     </il>
+                    <il class="menu__item">
+                      <a href="#contacts" class="menu__link">Contacts</a>
+                    </il>
                   </ul>
                 </nav>
               </div>
-            </header>
+            </header> -->
             <div class="section-left">
               <figure class="photo">
                 <div class="photo__wr">
@@ -60,7 +65,7 @@
         <main class="main">
           <div class="content">
             <aside class="section-left">
-              <h3 class="block-title">Contacts</h3>
+              <h3 class="block-title" id="contacts">Contacts</h3>
               <div class="title-underline"></div>
               <ul>
                 <li>
@@ -152,10 +157,17 @@
                   <h2 class="section__title" id="code">Code example</h2>
                 </div>
                 <pre class="code">
+                  <code class="js">
+                    const hello = name => `Hello, ${name}!`;
+                    alert(hello`RS School`);
+                  </code>
+                </pre>
+
+                <!-- <pre class="code">
   const hello = name => `Hello, ${name}!`;
   alert(hello`RS School`);
               </pre
-                >
+                > -->
 
                 <div class="title-wrap title-flowerblue">
                   <h2 class="section__title" id="portfolio">Portfolio</h2>
@@ -355,4 +367,8 @@
       </div>
     </div>
   </body>
+
+  <script>
+    hljs.initHighlightingOnLoad();
+  </script>
 </html>
