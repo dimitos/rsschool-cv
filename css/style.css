@@ -156,6 +156,7 @@ p {
 
 .menu__item {
   padding: 0 1rem;
+  list-style-type: none;
 }
 
 .menu__link {
