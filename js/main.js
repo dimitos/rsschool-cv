@@ -1,6 +1,14 @@
 hljs.initHighlightingOnLoad();
 
 /**
+ * Delete anchor hash
+ */
+const hash = document.querySelectorAll(".hash");
+if (document.querySelectorAll(".hash")) {
+  hash.forEach((el) => el.addEventListener("click", () => setTimeout(() => history.replaceState(null, null, " "), 1), { passive: true }));
+}
+
+/**
  * initialization burger menu
  */
 const burger = document.querySelector('.burger');
