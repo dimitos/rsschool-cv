@@ -11,11 +11,11 @@
 - Hi! I have a great desire to move towards fullstack JavaScript development.
 - My priorities are learning: JavaScript, Node.js, React.js, Vue.js, Typescript.
 - I want to participate in team development using Git, learn the component approach to development.
-- I have passed the initial level of web development, I have a little experience of commercial work on freelance.
+- I passed the initial level of web development, I have some experience in commercial work on freelance and in a web studio.
 
 ## Skills:
 
-- HTML, CSS, JavaScript, JQuery, PHP, MySql.
+- HTML, CSS, SCSS, BEM, JavaScript, JQuery, PHP, MySql, Smarty, Gulp.
 
 ## Code example:
 
@@ -26,7 +26,7 @@
 
 ## Portfolio:
 
-- This is one of my works: [Expedition](https://ruralisation.ru/expedition 'Expedition')
+- This is one of my works: [Cyprus Carrington Group](https://carrington.intopweb.ru/ 'Cyprus Carrington Group')
 - These are my other work and study projects: [Projects](https://domdev.ru/projects 'Projects')
 
 ## Work experience:
@@ -36,9 +36,11 @@
 Project role: Html layout.
 Project description: html layout, frontend, website support.
 
-### _Today_
+### _April 2020 - October 2021 - Freelance_
+Project role: support of project sites [Ruralisation.ru](https://ruralisation.ru 'Project Ruralisation')
 
-Freelance, support of project sites [Ruralisation.ru](https://ruralisation.ru 'Project Ruralisation'), teaching at [Rs School](https://rs.school/js 'Rs School')  
+### _October 2021 - Today - Web Studio [InTop](https://intopweb.ru/ 'InTop') Krasnodar_
+Project role: Html layout. Project description: html layout, frontend, website support.
 
 ## Education: 
 
@@ -50,10 +52,11 @@ Freelance, support of project sites [Ruralisation.ru](https://ruralisation.ru 'P
   - [GeekBrains JavaScript](https://gb.ru/certificates/617670.en 'Certificate GeekBrains JavaScript')
   - [GeekBrains PHP](https://gb.ru/certificates/682266.en 'Certificate GeekBrains PHP')
   - [GeekBrains MySQL](https://gb.ru/certificates/888600.en 'Certificate GeekBrains MySQL')
+  - [Courses RS-School (EPAM) stage0](https://dimitos.github.io/rsschool-cv/images/tjf4rkgv.pdf 'Certificate Courses RS-School (EPAM) stage0')
 
 ## English:
 
-A2 [GeekBrains Certificate English test](https://gb.ru/certificates/650735.en 'Certificate English test')  
+A2 [GeekBrains Certificate English test](https://gb.ru/certificates/650735.en 'Certificate English test')
 
 ---
 © [dimitos](https://github.com/dimitos)
