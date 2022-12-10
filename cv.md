@@ -39,3 +39,21 @@ Project role: support of project sites [Ruralisation.ru](https://ruralisation.ru
 ### _October 2021 - Today - Web Studio [InTop](https://intopweb.ru/ 'InTop') Krasnodar_
 Project role: Html layout. Project description: html layout, frontend, website support.
 
+## Education: 
+
+#### _Ural Pedagogical University, Yekaterinburg, Faculty of Mathematics_
+#### _Courses GeekBrains, Faculty of web development, 2019_
+
+- Certificates:
+  - [GeekBrains HTML/CSS](https://gb.ru/certificates/606233.en 'Certificate GeekBrains HTML/CSS')
+  - [GeekBrains JavaScript](https://gb.ru/certificates/617670.en 'Certificate GeekBrains JavaScript')
+  - [GeekBrains PHP](https://gb.ru/certificates/682266.en 'Certificate GeekBrains PHP')
+  - [GeekBrains MySQL](https://gb.ru/certificates/888600.en 'Certificate GeekBrains MySQL')
+  - [Courses RS-School (EPAM) stage0](https://dimitos.github.io/rsschool-cv/images/tjf4rkgv.pdf 'Certificate Courses RS-School (EPAM) stage0')
+
+## English:
+
+A2 [GeekBrains Certificate English test](https://gb.ru/certificates/650735.en 'Certificate English test')
+
+---
+© [dimitos](https://github.com/dimitos)
