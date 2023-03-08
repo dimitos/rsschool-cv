@@ -498,6 +498,7 @@ h4 {
 }
 
 .pane__item-img {
+  display: block;
   position: relative;
   width: 100%;
   height: 27rem;
