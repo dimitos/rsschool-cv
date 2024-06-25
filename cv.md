@@ -24,7 +24,6 @@
 ## Portfolio:
 
 - This is one of my works: [Cyprus Carrington Group](https://carrington.intopweb.ru/ 'Cyprus Carrington Group')
-- These are my other work and study projects: [Projects](https://domdev.ru/projects 'Projects')
 
 ## Work experience:
 
@@ -36,7 +35,7 @@ Project description: html layout, frontend, website support.
 ### _April 2020 - October 2021 - Freelance_
 Project role: support of project sites [Ruralisation.ru](https://ruralisation.ru 'Project Ruralisation')
 
-### _October 2021 - Today - Web Studio [InTop](https://intopweb.ru/ 'InTop') Krasnodar_
+### _October 2021 - October 2023 - Web Studio [InTop](https://intopweb.ru/ 'InTop') Krasnodar_
 Project role: Html layout. Project description: html layout, frontend, website support.
 
 ## Education: 
